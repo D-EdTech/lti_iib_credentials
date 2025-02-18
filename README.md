@@ -145,9 +145,5 @@ These variables provide necessary API credentials and configurations required fo
 - **API Errors:** Verify credentials and network connection.
 - **Password Issues:** Ensure passwords in the CSV are correctly entered.
 
-## Contact and Support
-
-For further assistance, please contact your system administrator or email [support@example.com](mailto:support@example.com).
-
 Enjoy using the Blackboard & Inspera Integrity Browser Credential Tool!
 

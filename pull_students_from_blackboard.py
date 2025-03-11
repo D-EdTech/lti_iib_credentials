@@ -110,5 +110,5 @@ def pull_students_json(course_external_id, filename_prefix=None):
 
 if __name__ == "__main__":
     # Optionally accept the course external id as a command-line argument.
-    course_external_id = sys.argv[1] if len(sys.argv) > 1 else "DALIAN_ZOGAJ_INSPERA_AS_Course"
+    course_external_id = sys.argv[1] if len(sys.argv) > 1 else "GIBS_SIKHO_SANDBOX"
     pull_students_json(course_external_id)
